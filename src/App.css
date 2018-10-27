@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant|Quattrocento+Sans');
+
+:root {
+  --trans: all 300ms ease-in-out;
+  --title: 'Cormorant', serif;
+  --text: 'Quattrocento Sans', sans-serif;
+}
+
+body, html {
+  overflow: hidden;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: #333;
+  color: #fff;
+}
+
+h1 {
+  margin: 0;
+}
